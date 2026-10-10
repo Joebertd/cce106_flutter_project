@@ -1,0 +1,25 @@
+.dart_tool/
+.packages
+.pub/
+build/
+.idea/
+.vscode/
+*.iml
+.DS_Store
+.env
+supabase/.temp/
+
+# Node.js dependencies and generated files
+node_modules/
+**/node_modules/
+
+# Flutter generated files
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+
+# Environment secrets
+.env
+.env.*
+!.env.example
